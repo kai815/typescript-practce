@@ -10,7 +10,8 @@
     "dev": "tsc --watch",
     "start": "node dist/index.js",
     "fizz": "node dist/fizzBuzz.js",
-    "fizz2": "node dist/fizzBuzz2.js"
+    "fizz2": "node dist/fizzBuzz2.js",
+    "object": "node dist/object.js"
   },
   "keywords": [],
   "author": "",
